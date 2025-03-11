@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -21,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
