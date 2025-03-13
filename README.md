@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0643-maximum-average-subarray-i) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
