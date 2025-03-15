@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0209-minimum-size-subarray-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
