@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0268-missing-number) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
