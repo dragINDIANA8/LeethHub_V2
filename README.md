@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0344-reverse-string) |
+| [1170-shortest-common-supersequence](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/1170-shortest-common-supersequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0435-non-overlapping-intervals) |
+| [1170-shortest-common-supersequence](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/1170-shortest-common-supersequence) |
 ## Backtracking
 |  |
 | ------- |
