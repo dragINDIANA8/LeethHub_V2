@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0435-non-overlapping-intervals) |
 | [1170-shortest-common-supersequence](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/1170-shortest-common-supersequence) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dragINDIANA8/LeethHub_V2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
